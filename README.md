@@ -18,5 +18,5 @@ OUTPUT:instance dashboard
 
 OUTPUT: graphed metrics
 
-![Image](https://github.com/user-attachments/assets/53860988-abda-4bb0-a488-d501f7635602)
+![Image](https://github.com/user-attachments/assets/685685f6-16b7-45c1-b5fd-77c49b1f5611)
 
